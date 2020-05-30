@@ -14,14 +14,14 @@ Esse Projeto foi Criado com objetivo de aprender os conceito basico do Flutter, 
 Para você conseguir executar esse projeto, voce ira precisar ter instalado na sua maquina o sdk do flutter, android studio. Caso não queria usa-lo baixe qualquer outra IDE de sua preferencia.
 
 ### Pre - Requistos
- - [flutter](htts://www.flutter.dev)
+ - [Flutter](https://www.flutter.dev)
  - [Android-Studio](https://developer.android.com)
 
 ```
 Give examples
 ```
 
-### Installing
+### Instalando
 
 Baixe o Projeto e execute
 
