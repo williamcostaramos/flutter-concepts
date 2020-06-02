@@ -17,9 +17,6 @@ Para você conseguir executar esse projeto, voce ira precisar ter instalado na s
  - [Flutter](https://www.flutter.dev)
  - [Android-Studio](https://developer.android.com)
 
-```
-Give examples
-```
 
 ### Instalando
 
