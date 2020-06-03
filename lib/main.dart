@@ -5,6 +5,7 @@ import 'package:flutter_nivel1/gridListview.dart';
 import 'package:flutter_nivel1/listview.dart';
 import 'package:flutter_nivel1/listviewDinamica.dart';
 import 'package:flutter_nivel1/listview_horizontal.dart';
+import 'package:flutter_nivel1/state_manager.dart';
 import 'package:flutter_nivel1/viagem.dart';
 
 void main() {
@@ -22,7 +23,11 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       routes: {
         "/home": (context) => PageViagem(),
-        "/listagemDinamica": (context) => PageListviewDinamica()
+        "/listagemDinamica": (context) => PageListviewDinamica(),
+        "/listviewHorizontal": (context) => PageListviewHorizontal(),
+        "/gridListview": (context) => PageGridListview(),
+        "/homePageListview":(context) => HomePageListview(),
+        "/stateManager": (context) => GerenciamentoEstado()
       },
       initialRoute: '/home',
     );
